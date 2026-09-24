@@ -45,6 +45,6 @@ Luego abri en el navegador la URL que indica la consola (por defecto
 
 ## Repositorio
 
-`https://github.com/<tu-usuario>/tp1-react-portfolio-apellido-nombre`
+https://github.com/ulisesfuensalida-ui/proyectos-practicas
 
 
